@@ -63,8 +63,7 @@ To transition into a Software Development Engineer in Test (SDET) or Software En
 
 ---
 
-## 📌 Progress Log (Optional)
-You can also log daily updates like:
+## 📌 Progress Log 
 ```markdown
 
 ### 🗓️ Day 1 – July 10, 2025
@@ -73,3 +72,4 @@ You can also log daily updates like:
 - ✅ Added 30-day plan to README
 - ✅ Recommitted to finishing CS50P Week 8 (OOP)
 - ✅ Clarified career path between SWE and QAE/SDET
+```
