@@ -63,13 +63,13 @@ To transition into a Software Development Engineer in Test (SDET) or Software En
 
 ---
 
-## 📌 Progress Log 
-```markdown
-
 ### 🗓️ Day 1 – July 10, 2025
+## 📌 Progress Log 
 
+```markdown
 - ✅ Created `career-rebuild` GitHub repo
 - ✅ Added 30-day plan to README
 - ✅ Recommitted to finishing CS50P Week 8 (OOP)
 - ✅ Clarified career path between SWE and QAE/SDET
 ```
+
