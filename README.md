@@ -60,16 +60,3 @@ This repo tracks my 30-day commitment to:
 
 ## 🛤️ Long-Term Goal
 To transition into a Software Development Engineer in Test (SDET) or Software Engineer (SWE) role by the end of 2024 — and rebuild a fulfilling career in tech.
-
----
-
-### 🗓️ Day 1 – July 10, 2025
-## 📌 Progress Log 
-
-```markdown
-- ✅ Created `career-rebuild` GitHub repo
-- ✅ Added 30-day plan to README
-- ✅ Recommitted to finishing CS50P Week 8 (OOP)
-- ✅ Clarified career path between SWE and QAE/SDET
-```
-
