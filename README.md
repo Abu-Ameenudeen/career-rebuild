@@ -22,7 +22,7 @@ This repo tracks my 30-day commitment to:
 - [ ] Watch Angela Yu’s OOP lessons (Days 22–25)
 - [ ] Boot.dev: Review or pause AI Agent
 - [ ] Boot.dev: Begin DSA Module (Intro + Arrays)
-- [ ] Create "30-day-progression" folder on GitHub
+- [X] Create a progress tracker
 
 ---
 
