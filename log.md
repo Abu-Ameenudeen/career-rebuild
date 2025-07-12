@@ -20,7 +20,7 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-## 🧠 Day 3 – July 12, 2025
+## 🗓️ Day 3 – July 12, 2025
 
 - Learned `@property` method in Python OOP
 - Built `Person` and `Student` classes with encapsulation
