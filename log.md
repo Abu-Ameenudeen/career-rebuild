@@ -20,9 +20,28 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-## 🗓️ Day 3 – July 12, 2025
+### 🗓️ Day 3 – July 12, 2025
 
 - Learned `@property` method in Python OOP
 - Built `Person` and `Student` classes with encapsulation
 - Added validation logic with getters and setters
 - Completed "Encapsulation" chapter in Boot.dev OOP course
+
+---
+
+### 📅 Day 4 – July 10, 2025
+✅ Progress:
+
+🧠 CS50P Week 8 (Object-Oriented Programming)
+– Watched up to 1 hour 40 minutes of the lecture.
+– Covered: defining classes, instantiating objects, encapsulation with private attributes, and @property.
+
+🐍 100 Days of Code – Day 01: Band Name Generator
+– Completed project using Object-Oriented Programming.
+– Created BandNameGenerator class with input handling and name generation.
+– Structured project cleanly under day_01/, created .gitignore, and set up Git repository.
+– Learned about .pyc files, __pycache__, and Git best practices.
+
+🧑‍💻 Boot.dev – OOP Course
+– Finished the Abstraction chapter.
+– Understood the importance of hiding complexity using public methods and internal logic separation.
