@@ -29,7 +29,7 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-### 📅 Day 4 – July 10, 2025
+### 📅 Day 4 – July 13, 2025
 ✅ Progress:
 
 🧠 CS50P Week 8 (Object-Oriented Programming)
