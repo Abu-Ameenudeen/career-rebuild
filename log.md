@@ -45,3 +45,21 @@ This file tracks my daily learning progress during my career rebuild challenge.
 🧑‍💻 Boot.dev – OOP Course
 – Finished the Abstraction chapter.
 – Understood the importance of hiding complexity using public methods and internal logic separation.
+
+---
+
+### 📅 Day 5 - July 14, 2025
+
+✅ Completed
+- 🔹 **Boot.dev (OOP Track)**
+  - Finished optional coding challenges in the **Abstraction** chapter
+- 🔹 Worked on the `ocr_api` project:
+  - Continued development and debugging
+  - Integrated learning into real-world code
+
+🔜 Next Steps
+- 📘 Resume **CS50P Week 8** – start the coding exercises
+- 📘 Boot.dev – Start **Inheritance** chapter in OOP
+- 🐍 100 Days of Code – Continue with **Day 2** (use OOP, type hints, and testing)
+
+---
