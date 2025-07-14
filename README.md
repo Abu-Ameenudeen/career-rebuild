@@ -20,7 +20,7 @@ This repo tracks my 30-day commitment to:
 ### ✅ Week 1: Reset & Rebuild Core Skills
 - [ ] Complete CS50P Week 8 (OOP)
 - [ ] Watch Angela Yu’s OOP lessons (Days 22–25)
-- [ ] Boot.dev: Review or pause AI Agent
+- [X] Boot.dev: Review or pause AI Agent
 - [ ] Boot.dev: Begin DSA Module (Intro + Arrays)
 - [X] Create a progress tracker
 
