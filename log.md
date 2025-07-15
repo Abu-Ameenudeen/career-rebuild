@@ -63,3 +63,19 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - 🐍 100 Days of Code – Continue with **Day 2** (use OOP, type hints, and testing)
 
 ---
+
+### 📅 Day 6 - July 15, 2025
+
+✅ Completed
+- 🔹 Built an **OCR API using FastAPI** with EasyOCR
+  - API accepts image uploads and returns extracted text
+  - Learned about request handling, async functions, and directory structure
+- 🔹 **Boot.dev (OOP Track)**
+  - Completed exercises in the **Inheritance** chapter
+
+🔜 Next Steps
+- 📘 Boot.dev – Continue with **Polymorphism**
+- 🐍 100 Days of Code – Start **Day 2** project (OOP + type hints + testable code)
+- 🧪 Add unit tests to OCR API
+
+---
