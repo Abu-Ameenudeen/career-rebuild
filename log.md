@@ -79,3 +79,17 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - 🧪 Add unit tests to OCR API
 
 ---
+
+### Day 16 - July 16, 2025
+
+✅ Completed:
+- 📘 100 Days of Code - Day 2
+  - Rebuilt the Tip Calculator using a class-based approach.
+  - Focused on getting more comfortable with writing modular code using classes.
+  - Practiced using Python type hints in a real-world style example.
+
+🧠 Notes:
+- Continued building foundational skills in class design and type hinting.
+- Emphasis on clarity and step-by-step progression toward clean, modular code.
+
+---
