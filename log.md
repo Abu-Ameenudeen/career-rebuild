@@ -93,3 +93,22 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - Emphasis on clarity and step-by-step progression toward clean, modular code.
 
 ---
+
+### Day 8 - July 17, 2025
+
+✅ Completed:
+- 🧠 Built a working **OCR + LLM Summarizer** pipeline:
+  - OCR: Extracted text from both digital and scanned PDFs using Tesseract.
+  - Sent extracted text to local LLM (DeepSeek via LM Studio) for summarization.
+  - Saved summarized output to timestamped `.txt` files in `static/summaries/`.
+
+🛠️ Tech Stack:
+- Python, FastAPI
+- Tesseract OCR
+- LM Studio (DeepSeek LLM)
+- File handling (PDF, text)
+
+🧠 Notes:
+- Implemented PDF type detection (scanned vs digital).
+- Practiced FastAPI routing, file upload handling, and modular code organization.
+- Improved integration between OCR and LLM for document summarization.
