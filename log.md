@@ -4,14 +4,14 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-### 🗓️ Day 1 – July 10, 2025
+### 📅 Day 1 – July 10, 2025
 - ✅ Created `career-rebuild` repo on GitHub
 - ✅ Added 30-day roadmap and learning structure to README
 - ✅ Recommitted to CS50P Week 8 (OOP) and boot.dev goals
 
 ---
 
-### 🗓️ Day 2 – July 11, 2025
+### 📅 Day 2 – July 11, 2025
 - ✅ Used cs50.dev cloud VS Code to practice OOP (CS50P Week 8)
 - ✅ Watched first 30 minutes of lecture (total 2h 48m)
 - ✅ Built a `Student` class with `__init__` and `__str__`
@@ -20,7 +20,7 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-### 🗓️ Day 3 – July 12, 2025
+### 📅 Day 3 – July 12, 2025
 
 - Learned `@property` method in Python OOP
 - Built `Person` and `Student` classes with encapsulation
@@ -80,7 +80,7 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-### Day 7 - July 16, 2025
+### 📅 Day 7 - July 16, 2025
 
 ✅ Completed:
 - 📘 100 Days of Code - Day 2
@@ -94,7 +94,7 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-### Day 8 - July 17, 2025
+### 📅 Day 8 - July 17, 2025
 
 ✅ Completed:
 - 🧠 Built a working **OCR + LLM Summarizer** pipeline:
@@ -112,3 +112,19 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - Implemented PDF type detection (scanned vs digital).
 - Practiced FastAPI routing, file upload handling, and modular code organization.
 - Improved integration between OCR and LLM for document summarization.
+
+---
+
+### 📅 Day 9 - July 18, 2025
+
+**Progress:**
+- ✅ Tested the `ocr_llm_summarizer` project on Windows using Git Bash
+- ✅ Confirmed it works properly in a Windows environment
+- ✅ Added support for accepting `.txt` files as input
+- ✅ Created a detailed `README.md` for setup and usage instructions
+
+**Thoughts:**
+- Good progress on cross-platform testing and usability.
+- Clean documentation will help others (and future me!) use the tool easily.
+
+---
