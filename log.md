@@ -128,3 +128,19 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - Clean documentation will help others (and future me!) use the tool easily.
 
 ---
+
+### 📅 Day 10 - July 19, 2025
+
+**Progress:**
+- Fixed bugs in the summarizer flow.
+- Updated API to return the generated summary in the response JSON.
+
+---
+
+### 📅 Day 11 - July 20, 2025
+
+**Progress:**
+- ✅ Completed CS50P Week 8 OOP lecture (Object-Oriented Programming).
+- Learned about classes, objects, `__init__`, `__str__`, encapsulation, properties, class methods, inheritance, and more.
+- ✅ Practiced OOP exercises on Boot.dev to reinforce concepts.
+- 🔜 Ready to begin CS50P Week 8 coding exercises for hands-on practice.
