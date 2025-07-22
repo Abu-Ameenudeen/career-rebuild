@@ -144,3 +144,25 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - Learned about classes, objects, `__init__`, `__str__`, encapsulation, properties, class methods, inheritance, and more.
 - ✅ Practiced OOP exercises on Boot.dev to reinforce concepts.
 - 🔜 Ready to begin CS50P Week 8 coding exercises for hands-on practice.
+
+---
+
+### 📅 Day 12 - July 21, 2025
+
+**Progress:**
+- 🔍 Started researching and exploring the PaddleOCR model for improved OCR support.
+- ⚙️ Attempted setup of PaddleOCR on the local machine.
+- 🐛 Faced dependency issues during installation; debugging in progress.
+
+---
+
+## Day 13 – July 22, 2025
+- ✅ Completed the **AI Agent** project from Boot.dev.
+- 🚀 Started the **Data Structures and Algorithms** (DSA) course.
+- 🧠 Reviewed algorithmic concepts and began working on DSA exercises.
+- 🧪 Successfully got **PaddleOCR** running on the system (CPU-based).
+- ⚡️ GPU acceleration for PaddleOCR still pending setup.
+
+---
+
+
