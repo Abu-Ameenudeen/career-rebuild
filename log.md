@@ -156,7 +156,7 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-## Day 13 – July 22, 2025
+### 📅 Day 13 – July 22, 2025
 - ✅ Completed the **AI Agent** project from Boot.dev.
 - 🚀 Started the **Data Structures and Algorithms** (DSA) course.
 - 🧠 Reviewed algorithmic concepts and began working on DSA exercises.
@@ -165,4 +165,9 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
+### 📅 Day 14 – July 23, 2025
+- ✅ Completed core functionality in `ocr_llm_summarizer` using **PaddleOCR** to extract and summarize text.
+- 🧪 Verified the end-to-end OCR + summarization pipeline is functional.
+- 🧠 Completed **Algorithm Introduction** exercises on Boot.dev as part of the DSA track.
 
+---
