@@ -171,3 +171,21 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - 🧠 Completed **Algorithm Introduction** exercises on Boot.dev as part of the DSA track.
 
 ---
+
+### 📅 Day 15 – July 24, 2025
+- 🛠️ Tried implementing **PaddleOCR with GPU acceleration**.
+- ✅ Resolved PaddleOCR setup issues by updating **NVIDIA drivers** and installing **CUDA 12.9**.
+- 🔍 Explored **PaddleOCR 3.0**; referred to official documentation for correct GPU-compatible setup.
+- ⚠️ Faced a few deprecated method issues but finally managed to get **OCR text extraction from images** working.
+- 📚 Practiced a bit of **DSA** and **OOP** on Boot.dev.
+
+---
+
+### 📅 Day 16 – July 25, 2025
+- 📘 Practiced **DSA exercises** on Boot.dev.
+- ➗ Started the **Math section** in Boot.dev (under Algorithms track).
+- 🔍 Continued exploring **PaddleOCR**, experimenting with different model configurations and capabilities.
+
+---
+
+
