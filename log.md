@@ -188,7 +188,7 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
-## 📅 Day 17 – July 26, 2025
+### 📅 Day 17 – July 26, 2025
 - ✅ Completed the **Math section** in the DSA course on Boot.dev.
 - 🧠 Practiced **DSA problems** to reinforce algorithmic thinking.
 - 🗄️ Explored **RDBMS** basics using the FreeCodeCamp curriculum.
