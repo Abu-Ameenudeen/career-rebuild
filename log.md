@@ -193,3 +193,11 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - 🧠 Practiced **DSA problems** to reinforce algorithmic thinking.
 - 🗄️ Explored **RDBMS** basics using the FreeCodeCamp curriculum.
 - 💻 Worked through exercises in the **Certified Full Stack Developer** track (FreeCodeCamp).
+
+---
+
+### 📅 Day 18 – July 27, 2025
+- ✅ Completed **Big-O Notation** section in the Boot.dev DSA course.
+- 📚 Continued progressing through **core computer science foundations**.
+
+---
