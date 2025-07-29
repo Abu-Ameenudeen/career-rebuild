@@ -201,3 +201,17 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - 📚 Continued progressing through **core computer science foundations**.
 
 ---
+
+---
+
+### 📅 **Day 19 – July 28, 2025**
+- 🚧 Started integrating **PaddleOCR GPU version** for the OCR + LLM summarizer project.
+- 🧪 Experimented with GPU acceleration and verified PaddleOCR on images.
+- 📚 Continued **Boot.dev DSA** course.
+
+---
+
+### 📅 **Day 20 – July 29, 2025**
+- ✅ Completed integration of **PaddleOCR GPU version** in the `ocr_llm_summarizer` app.
+- 📝 Wrote supporting documentation and finalized code changes.
+- 📊 Continued Boot.dev DSA course — currently in the **Sorting Algorithms** section.
