@@ -215,3 +215,10 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - ✅ Completed integration of **PaddleOCR GPU version** in the `ocr_llm_summarizer` app.
 - 📝 Wrote supporting documentation and finalized code changes.
 - 📊 Continued Boot.dev DSA course — currently in the **Sorting Algorithms** section.
+
+---
+
+### 📅 Day 21 - July 28
+
+- ✅ Completed Day 6 of the 100 Days of Code (Angela Yu)
+- ✅ Learned and practiced Bubble Sort in Boot.dev's Sorting Algorithms section (DSA)
