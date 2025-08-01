@@ -220,11 +220,16 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ### 📅 **Day 21 - July 30, 2025**
 
-- ✅ Completed Day 6 of the 100 Days of Code (Angela Yu)
-- ✅ Learned and practiced Bubble Sort in Boot.dev's Sorting Algorithms section (DSA)
+- ✅ Completed Day 6 of the 100 Days of Code (Angela Yu)  
+- ✅ Learned and practiced Bubble Sort in Boot.dev's Sorting Algorithms section (DSA)  
+- ✅ Gave a demo of the LLM Summarizer app to a client  
+- ✅ Pushed the LLM Summarizer project to Bitbucket  
 
 ---
 
 ### 📅 **Day 22 - July 31, 2025**
 - ✅ Learned and practiced Merge Sort and Insertion Sort in Boot.dev's Sorting Algorithms section (DSA)  
-- ✅ Started Day 7 of the 100 Days of Code (Angela Yu)  
+- ✅ Started Day 7 of the 100 Days of Code (Angela Yu)
+
+---
+
