@@ -233,3 +233,9 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
+### 📅 **Day 23 - August 1, 2025**
+- ✅ Completed the Sorting Algorithms section in Boot.dev's DSA course (except Selection Sort, needs review)  
+- ✅ Continued with Day 7 of the 100 Days of Code (Angela Yu)  
+
+---
+
