@@ -222,3 +222,9 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 - ✅ Completed Day 6 of the 100 Days of Code (Angela Yu)
 - ✅ Learned and practiced Bubble Sort in Boot.dev's Sorting Algorithms section (DSA)
+
+---
+
+### 📅 **Day 22 - July 31, 2025**
+- ✅ Learned and practiced Merge Sort and Insertion Sort in Boot.dev's Sorting Algorithms section (DSA)  
+- ✅ Started Day 7 of the 100 Days of Code (Angela Yu)  
