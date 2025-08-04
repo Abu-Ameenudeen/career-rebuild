@@ -245,3 +245,14 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
+### 📅 **Day 25 - August 3, 2025**
+- ✅ Continued with the "Exponential Time" topic in Boot.dev's DSA course  
+- ✅ Completed more exercises on exponential time complexity
+
+---
+
+### 📅 **Day 26 - August 4, 2025**
+- ✅ Completed the "Exponential Time" section in Boot.dev's DSA course  
+
+---
+
