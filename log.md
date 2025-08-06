@@ -256,3 +256,10 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
+### 📅 **Day 27 - August 5, 2025**
+- ✅ Completed the "Data Structures Introduction" section in Boot.dev's DSA course  
+- ✅ Started the "Stack" section in Boot.dev's DSA course  
+- ✅ Explored HTML basics on freeCodeCamp  
+
+---
+
