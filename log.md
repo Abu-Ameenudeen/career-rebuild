@@ -263,3 +263,11 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
+### 📅 **Day 28 - August 6, 2025**
+- ✅ Completed the "Queue" section in Boot.dev's DSA course  
+
+---
+
+
+
+---
