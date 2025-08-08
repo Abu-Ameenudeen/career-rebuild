@@ -268,6 +268,14 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
+### 📅 **Day 29 - August 7, 2025**
+- ✅ Started the "Linked List" section in Boot.dev's DSA course  
+- ✅ Completed a few exercises on linked lists  
 
+---
+
+### 📅 **Day 30 - August 8, 2025**
+- ✅ Continued the "Linked List" section in Boot.dev's DSA course  
+- ✅ Practiced HTML on Scrimba  
 
 ---
