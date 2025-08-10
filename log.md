@@ -279,3 +279,9 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - ✅ Practiced HTML on Scrimba  
 
 ---
+
+### 📅 **Day 31 - August 9, 2025**
+- ✅ Completed the "Linked List" section in Boot.dev's DSA course  
+- ✅ Started the "Binary Search Tree (BST)" section in Boot.dev's DSA course  
+
+---
