@@ -292,3 +292,6 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ---
 
+### 📅 **Day 33 - August 11, 2025**
+- ✅ Continued practicing HTML on freeCodeCamp  
+- ✅ Felt quite exhausted, took it a bit easier  
