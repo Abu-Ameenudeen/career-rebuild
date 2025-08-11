@@ -285,3 +285,10 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - ✅ Started the "Binary Search Tree (BST)" section in Boot.dev's DSA course  
 
 ---
+
+### 📅 **Day 32 - August 10, 2025**
+- ✅ Continued the "Binary Search Tree (BST)" section in Boot.dev's DSA course  
+- ✅ Practiced HTML on freeCodeCamp  
+
+---
+
