@@ -306,3 +306,17 @@ This file tracks my daily learning progress during my career rebuild challenge.
 ### 📅 **Day 35 - August 13, 2025**
 - ✅ Maintained streak in Boot.dev by completing some OOP exercises  
 - ⚡ Took a light day due to low motivation  
+
+---
+
+### 📅 **Day 36 - August 14, 2025**
+- ✅ Started learning JavaScript  
+- ✅ Covered: Variables, Comparisons, and Functions chapters  
+- ✅ Started solving Python problems on HackerRank  
+
+---
+
+### 📅 **Day 37 - August 15, 2025**
+- ✅ Completed the "Functions" chapter in JavaScript  
+- ✅ Started the "Objects" chapter in JavaScript  
+- ✅ Solved Python exercises on HackerRank  
