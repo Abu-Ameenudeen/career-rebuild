@@ -319,4 +319,21 @@ This file tracks my daily learning progress during my career rebuild challenge.
 ### 📅 **Day 37 - August 15, 2025**
 - ✅ Completed the "Functions" chapter in JavaScript  
 - ✅ Started the "Objects" chapter in JavaScript  
-- ✅ Solved Python exercises on HackerRank  
+- ✅ Solved Python exercises on HackerRank.
+
+---
+
+### 📅 **Day 38 - August 16, 2025**
+- ✅ Continued learning JavaScript
+
+---
+
+### 📅 **Day 39 - August 17, 2025**
+- ✅ Continued learning JavaScript
+
+---
+
+### 📅 **Day 40 - August 21, 2025**
+- ✅ Completed the "Objects" chapter in JavaScript (past days)  
+- ✅ Continued learning JavaScript, currently on the "Classes" chapter  
+
