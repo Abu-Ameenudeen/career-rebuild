@@ -337,3 +337,12 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - ✅ Completed the "Objects" chapter in JavaScript (past days)  
 - ✅ Continued learning JavaScript, currently on the "Classes" chapter  
 
+---
+
+### 📅 **Day 41 - August 22, 2025**
+- ✅ Completed the "Classes" chapter in JavaScript  
+
+---
+
+### 📅 **Day 42 - August 23, 2025**
+- ✅ Started the "Loops" chapter in JavaScript  
