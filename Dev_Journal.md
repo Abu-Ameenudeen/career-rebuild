@@ -346,3 +346,12 @@ This file tracks my daily learning progress during my career rebuild challenge.
 
 ### 📅 **Day 42 - August 23, 2025**
 - ✅ Started the "Loops" chapter in JavaScript  
+
+---
+
+### 📅 **Day 43 - August 26, 2025**
+- ✅ Completed the "Loops" chapter in JavaScript  
+- ✅ Started the "Arrays" chapter in JavaScript  
+- ✅ Enrolled in Web Development with Scrimba (Full-Stack Development track)  
+
+---
