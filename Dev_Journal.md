@@ -1,4 +1,4 @@
-# 🗓️ 30-Day Progress Log
+# 🗓️ Daily Progress Log
 
 This file tracks my daily learning progress during my career rebuild challenge.
 
