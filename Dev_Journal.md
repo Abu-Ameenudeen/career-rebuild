@@ -355,3 +355,16 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - ✅ Enrolled in Web Development with Scrimba (Full-Stack Development track)  
 
 ---
+
+### 📅 **Day 44 - August 27, 2025**
+- ✅ Completed the "Arrays" chapter in JavaScript  
+- ✅ Completed 75% of the HTML course in Scrimba’s Full-Stack Development track  
+
+---
+
+### 📅 **Day 45 - August 28, 2025**
+- ✅ Onboarded on a freelance project for an LLM-based chatbot  
+- ✅ Redid some exercises in JavaScript  
+- ✅ Practiced HTML exercises  
+
+---
