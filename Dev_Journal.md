@@ -368,3 +368,64 @@ This file tracks my daily learning progress during my career rebuild challenge.
 - ✅ Practiced HTML exercises  
 
 ---
+
+### 📅 **Day 47 - August 30, 2025**
+- ✅ Continued learning JavaScript in Boot.dev  
+- ✅ Worked on freelance LLM chatbot project (using Qwen3 + Streamlit)  
+
+---
+
+### 📅 **Day 48 - August 31, 2025**
+- ✅ Practiced more JavaScript exercises  
+- ✅ Explored chatbot improvements with Ollama + RAG concepts  
+
+---
+
+### 📅 **Day 49 - September 1, 2025**
+- ✅ Started the Full-Stack Development path on Scrimba  
+- ✅ Reviewed HTML basics  
+
+---
+
+### 📅 **Day 50 - September 2, 2025**
+- ✅ Built and deployed first personal profile site on Netlify 🚀  
+- ✅ Continued HTML course on Scrimba  
+
+---
+
+### 📅 **Day 51 - September 3, 2025**
+- ✅ Researched fine-tuning vs RAG for LLM chatbot project  
+- ✅ Made progress on Boot.dev JavaScript section  
+
+---
+
+### 📅 **Day 52 - September 4, 2025**
+- ✅ Continued working with Qwen3 on Ollama + Streamlit chatbot integration  
+- ✅ Completed exercises in JavaScript  
+
+---
+
+### 📅 **Day 53 - September 5, 2025**
+- ✅ Started learning CSS in Scrimba  
+- ✅ Began working on a business card project with CSS  
+
+---
+
+### 📅 **Day 54 - September 6, 2025**
+- ✅ Progressed further in Boot.dev JavaScript course  
+- ✅ Explored more CSS styling techniques  
+
+---
+
+### 📅 **Day 55 - September 7, 2025**
+- ✅ Focused on JavaScript Promises in Boot.dev  
+- ✅ Improved styling on CSS business card project  
+
+---
+
+### 📅 **Day 56 - September 8, 2025**
+- ✅ Currently learning JavaScript Promises on Boot.dev  
+- ✅ Continuing CSS business card project in Scrimba  
+- ✅ Iterated on LLM chatbot (Qwen3 + Streamlit + Ollama)  
+
+---
